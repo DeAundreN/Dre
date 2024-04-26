@@ -9,7 +9,8 @@
 - <b>How I've Have Strengthened Organizations Security By Ensuring Compliance Success</b>
   - [My Achievements In Cybersecurity](https://github.com/DeAundreN/Achievements) 
 
-
+- <b>GRC Projects</b>
+ - [Scoping Activities & Assessments](https://github.com/DeAundreN/Scoping-Activities-and-Assessments)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DeAundreN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

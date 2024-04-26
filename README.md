@@ -10,8 +10,7 @@
   - [My Achievements In Cybersecurity](https://github.com/DeAundreN/Achievements) 
 
 
-[https://github.com/DeAundreN/Scoping-Activities-and-Assessments.git
-](https://github.com/DeAundreN/Achievements.git)(https://github.com/DeAundreN/Achievements)<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DeAundreN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DeAundreN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

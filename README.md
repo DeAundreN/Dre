@@ -9,7 +9,9 @@
 - <b>How I've Have Strengthened Organizations Security By Ensuring Compliance Success</b>
   - [My Achievements In Cybersecurity](https://docs.google.com/document/d/1mKq_KMqep-BfCpXECmNZMgjWxOCXO3RsBVXQWHCf0hM/edit?usp=share_link) 
 
-<h2> 🤳 Connect with me:</h2>
+
+[https://github.com/DeAundreN/Scoping-Activities-and-Assessments.git
+](https://github.com/DeAundreN/Achievements.git)<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DeAundreN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DeAundreN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

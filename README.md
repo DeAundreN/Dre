@@ -1,6 +1,6 @@
 <h1>Hey, I'm DeAundré! <br/><a>Cybersecurity Professional</a> <a </a></h1>
 
-<h2>👨🏽‍💻 Cybersecurity PCI DSS 💳| GRC Projects:</h2>
+<h2>PCI DSS Compliance & IAM | Projects:</h2>
 
 - <b>Preparing a Major Fortune 500 For a PCI Audit (PCI SME)</b>
   - [How To Prepare For A PCI AUDIT](https://drive.google.com/file/d/1RuA4DwFtlviVC3FEbwrIA_yci03Q-ZMd/view?usp=sharing)

@@ -7,7 +7,8 @@
   - [Updating Our Information Security Policy (ISP) for PCI DSS 4.0](https://drive.google.com/file/d/1quw-ISp96v6i7ynBw5qn7QjHmzRI7yeO/view?usp=sharing)
 
 - <b>How I've Have Strengthened Organizations Security By Ensuring Compliance Success</b>
-  - [My Achievements In Cybersecurity](https://github.com/DeAundreN/Achievements) 
+    - [Verifting The CDE](https://github.com/DeAundreN/Verifying-The-CDE) 
+  - [My Achievements](https://github.com/DeAundreN/Achievements) 
 
 - <b>GRC Projects</b>
  - [Scoping Activities & Assessments](https://github.com/DeAundreN/Scoping-Activities-and-Assessments)
